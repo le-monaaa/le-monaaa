@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-✍ 갓 배움을 시작한 코린이
-아직 모르는 것, 궁금한 게 많습니다 🤔
-📫 도와주세요! kgbn013@naver.com
+✍ 갓 배움을 시작한 코린이 🤔
 
-✌ 사실 아직은 노는 게 더 좋은사람..
+
+📫 kgbn013@naver.com
+
+
+#### 💻 What I'm Learning now ...
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-monaaa&show_icons=true&theme=radical)
