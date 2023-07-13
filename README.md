@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-✍ 갓 배움을 시작한 코린이 🤔
-
-
-📫 kgbn013@naver.com
+✍ 코린이
 
 
 #### 💻 What I'm Learning now ...
