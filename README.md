@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **le-monaaa/le-monaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+✍ 갓 배움을 시작한 코린이
+아직 모르는 것, 궁금한 게 많습니다 🤔
+📫 도와주세요! kgbn013@naver.com
+
+✌ 사실 아직은 노는 게 더 좋은사람..
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-monaaa&show_icons=true&theme=radical)
