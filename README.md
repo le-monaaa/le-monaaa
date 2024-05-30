@@ -7,14 +7,12 @@
 I am a passionate developer with experience in various technologies. I love working on both frontend and backend projects, and I'm always eager to learn new things and take on new challenges.
 
 ## Tech Stack
-![React Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png)
-![JavaScript Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png) 
-![Vue.js Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566916079/noticon/yqec1z6qsjdf0fsvlh6s.png)
-![Django Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png)
-![Python Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png)
-![Java Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png)
-![MySQL Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913420/noticon/khqzv8dcoyrcnecc9cyw.png)
-![C# Logo](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png)
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
+
+![React](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png)
+![JavaScript](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png)
+![Vue.js](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566916079/noticon/yqec1z6qsjdf0fsvlh6s.png)
 
 ## Projects
 
